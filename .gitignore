@@ -1,0 +1,7 @@
+# Ignore Streamlit configs
+.streamlit/secrets.toml
+.streamlit/credentials.json
+
+# Ignore Python
+__pycache__/
+*.pyc
